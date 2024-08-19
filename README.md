@@ -29,9 +29,9 @@ The backend is an Express.js server with the following components:
 ### Cloning the Repository
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/AmruthaAkhila0730/assignment-FutureSkills.git
-   
+```
 2. **Navigate to the project directory:**
 ```bash
 cd assignment-FutureSkills
